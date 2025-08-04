@@ -1,6 +1,9 @@
 Project Title: FoodHub Data Analysis
+
 Prepared by: Sona Shakoory
+
 Program: MIT Professional Education – Applied Data Science & Generative AI
+
 Module: Project Foundations for Data Science
 
 Context
