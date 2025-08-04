@@ -1,3 +1,5 @@
+<img width="300" height="168" alt="image" src="https://github.com/user-attachments/assets/1ed9d2a1-0364-4cc3-9180-3704015775ad" />
+
 Project Title: FoodHub Data Analysis
 
 Prepared by: Sona Shakoory
